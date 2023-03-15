@@ -9531,6 +9531,9 @@
   .text-primary {
     color: #fff !important;
   }
+  .text-special {
+    color: #00693e !important;
+  }
   
   a.text-primary:hover, a.text-primary:focus {
     color: #078571 !important;
